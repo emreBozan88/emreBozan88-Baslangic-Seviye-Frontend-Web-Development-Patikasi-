@@ -1,0 +1,25 @@
+# Yorum Satırı demek
+# IDE - VSCODE
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+#img 
+*.jpg
+*.jpeg
+*.img
+*.png
+img/
+
+# videos
+*.mp4
+*.mp3
+
+# packeges
+
+
+# log
+*.log
+password.txt
